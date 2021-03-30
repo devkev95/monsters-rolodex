@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mosnters-rolodex/static/css/main.42420286.chunk.css",
-    "main.js": "/mosnters-rolodex/static/js/main.473be7e0.chunk.js",
-    "main.js.map": "/mosnters-rolodex/static/js/main.473be7e0.chunk.js.map",
+    "main.js": "/mosnters-rolodex/static/js/main.3e347d86.chunk.js",
+    "main.js.map": "/mosnters-rolodex/static/js/main.3e347d86.chunk.js.map",
     "runtime-main.js": "/mosnters-rolodex/static/js/runtime-main.fe001ecc.js",
     "runtime-main.js.map": "/mosnters-rolodex/static/js/runtime-main.fe001ecc.js.map",
     "static/js/2.eb351693.chunk.js": "/mosnters-rolodex/static/js/2.eb351693.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.fe001ecc.js",
     "static/js/2.eb351693.chunk.js",
     "static/css/main.42420286.chunk.css",
-    "static/js/main.473be7e0.chunk.js"
+    "static/js/main.3e347d86.chunk.js"
   ]
 }
